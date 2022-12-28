@@ -33,7 +33,7 @@
   letter-spacing: normal;
   text-transform: none;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  transition-duration: 0.75s;
+  transition-duration: 0.5s;
   font-weight: 600;
   background-image: linear-gradient(to right, #f97e83, #e13690);
   margin: -207px auto 0 64px;
@@ -43,7 +43,7 @@
   letter-spacing: normal;
   text-transform: none;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  transition-duration: 1.75s;
+  transition-duration: 0.5s;
   font-weight: 600;
   background-image: linear-gradient(to right, #f97e83, #e13690);
   margin: 33px auto 0 64px;
@@ -54,7 +54,7 @@
   letter-spacing: normal;
   text-transform: none;
   transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
-  transition-duration: 0.75s;
+  transition-duration: 0.5s;
   font-weight: 600;
   background-image: linear-gradient(to right, #f97e83, #e13690);
   margin: 34px auto 0 64px;
